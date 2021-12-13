@@ -4,7 +4,7 @@
 	<title>CORE-LOGIN</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <!-- Bootstrap 4 -->
     <link rel='stylesheet' href='login/css/main.css' type='text/css' media='all' />
     <link rel='stylesheet' href='login/css/util.css' type='text/css' media='all' />
