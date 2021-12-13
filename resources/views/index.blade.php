@@ -86,7 +86,6 @@
                                         <li class="menu-item"><a href="\contactos"><span>Contacto</span></a></li>
                                         <li class="menu-item"><a href="\empleo"><span>Empleo</span></a></li>
                                         <li class="menu-item"><a href="\blog"><span>Blog</span></a></li>
-                                        <li class="menu-item"><a href="\singin"><span>Login</span></a></li>
 
                                         <!--li class="menu-item menu-item-has-children"><a href="#"><span>Blog</span></a>
                                             <ul class="sub-menu">

@@ -77,17 +77,13 @@
                                         </div-->
                                     </div>
                                     <ul id="menu_main" class="sc_layouts_menu_nav menu_main_nav">
-                                        <li class="menu-item current-menu-ancestor current-menu-parent menu-item-has-children"><a><span>CORE</span></a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item"><a href="/servicios"><span>Servicios</span></a></li>
-                                                <li class="menu-item"><a href="/nosotros"><span>Nosotros</span></a></li>
-                                                <li class="menu-item"><a href="\cotizacion"><span>Cotización</span></a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item"><a href="/contactos"><span>Contacto</span></a></li>
-                                        <li class="menu-item"><a href="/empleo"><span>Empleo</span></a></li>
-                                        <li class="menu-item"><a href="blog"><span>Blog</span></a></li>
-                                        <li class="menu-item"><a href="singin"><span>Login</span></a></li>
+                                        <li class="menu-item"><a href="\"><span>Inicio</span></a></li>
+                                        <li class="menu-item"><a href="\servicios"><span>Servicios</span></a></li>
+                                        <li class="menu-item"><a href="\contactos"><span>Contacto</span></a></li>
+                                        <li class="menu-item"><a href="\empleo"><span>Empleo</span></a></li>
+                                        <li class="menu-item"><a href="\blog"><span>Blog</span></a></li>
+                                        <li class="menu-item"><a href="\singin"><span>Login</span></a></li>
+
                                         <!--li class="menu-item menu-item-has-children"><a href="#"><span>Blog</span></a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item menu-item-has-children"><a><span>Blog Style 1</span></a>
