@@ -89,6 +89,7 @@ class PostController extends Controller
 
     public function inicioSesion(Request $request)
     {
+//        header('Access-Control-Allow-Origin: *');
         session(['activo' => '0']);
         if($request['correo']=='core@correo.com' ) {
             if ($request['contrasenia'] == '123456789') {

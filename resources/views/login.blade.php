@@ -78,6 +78,7 @@
 
         $.ajax({
             type:"POST",
+
             url:"{{ route('inicio-sesion') }}",
             data:
                 {
