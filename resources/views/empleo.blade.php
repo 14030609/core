@@ -201,7 +201,7 @@
                                             <div class="sc_form sc_form_modern">
                                                 <form class="sc_form_form" method="post" action="includes/sendmail.php">
                                                     <div>
-                                                        <h2 style="color:#ffffff">Llena el siguiente formulario!! </h2>
+                                                        <h2 style="color:#ffffff">Llena el siguiente formulario. </h2>
                                                     </div>
                                                     <br>
                                                     <div class="sc_form_fields" >

@@ -24,6 +24,11 @@
 
     <link rel="icon" href="images/c.png" />
 
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </head>
 
 <body class="homepg home page body_style_wide scheme_default blog_style_excerpt sidebar_hide expand_content remove_margins header_style_header-2 header_title_off no_layout vc_responsive">
@@ -180,7 +185,32 @@
             </div>
         </div>
         <div class="page_content_wrap scheme_default">
-            <div style="background-color: #0374a6; padding:10px "></div>
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style=" height: auto; width: 100%;">
+                <ol class="carousel-indicators">
+                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img class="d-block w-100" src="images/cp3.jpg" alt="First slide">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="images/principal2.jpg" alt="Second slide">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="images/cp2.jpg" alt="Third slide">
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
 
             <div class="content_wrap">
                 <div class="content">
@@ -207,7 +237,33 @@
                                             <div class="wpb_single_image wpb_content_element vc_align_left">
                                                 <figure class="wpb_wrapper vc_figure">
                                                     <div class="vc_single_image-wrapper vc_box_border_grey">
-                                                        <img src="images/atradicon%20de%20talento.jpg" class="vc_single_image-img attachment-full" alt="" />
+                                                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style=" height: auto; width: 100%;">
+                                                            <ol class="carousel-indicators">
+                                                                <li data-target="#carouselExampleIndicators2" data-slide-to="0" class="active"></li>
+                                                                <li data-target="#carouselExampleIndicators2" data-slide-to="1"></li>
+                                                                <li data-target="#carouselExampleIndicators2" data-slide-to="2"></li>
+                                                            </ol>
+                                                            <div class="carousel-inner">
+                                                                <div class="carousel-item active">
+                                                                    <img class="d-block w-100" src="images/atraccion_talento.jpg" alt="First slide">
+                                                                </div>
+                                                                <div class="carousel-item">
+                                                                    <img class="d-block w-100" src="images/slide3.jpg" alt="Second slide">
+                                                                </div>
+                                                                <div class="carousel-item">
+                                                                    <img class="d-block w-100" src="images/slide4.jpg" alt="Third slide">
+                                                                </div>
+                                                            </div>
+                                                            <a class="carousel-control-prev" href="#carouselExampleIndicators2" role="button" data-slide="prev">
+                                                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                                                <span class="sr-only">Previous</span>
+                                                            </a>
+                                                            <a class="carousel-control-next" href="#carouselExampleIndicators2" role="button" data-slide="next">
+                                                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                                                <span class="sr-only">Next</span>
+                                                            </a>
+                                                        </div>
+
                                                     </div>
                                                 </figure>
                                             </div>
@@ -238,7 +294,7 @@
                                                 <span class="vc_empty_space_inner"></span>
                                             </div>
                                             <div class="sc_item_button sc_button_wrap">
-                                                <a href="about-2.html" class="sc_button sc_button_default sc_button_size_large sc_button_icon_left">
+                                                <a href="\servicios" class="sc_button sc_button_default sc_button_size_large sc_button_icon_left">
                                                         <span class="sc_button_text">
                                                             <span class="sc_button_title">¡Contáctanos!</span>
                                                         </span>
@@ -289,7 +345,7 @@
                                                 <span class="vc_empty_space_inner"></span>
                                             </div>
                                             <div class="sc_item_button sc_button_wrap">
-                                                <a href="about-2.html" class="sc_button sc_button_default sc_button_size_large sc_button_icon_left">
+                                                <a href="\servicios" class="sc_button sc_button_default sc_button_size_large sc_button_icon_left">
                                                         <span class="sc_button_text">
                                                             <span class="sc_button_title">¡Contáctanos!</span>
                                                         </span>
@@ -307,7 +363,32 @@
                                             <div class="wpb_single_image wpb_content_element vc_align_left">
                                                 <figure class="wpb_wrapper vc_figure">
                                                     <div class="vc_single_image-wrapper vc_box_border_grey">
-                                                        <img src="images/Evaluacion%20Psicometrica.JPG" class="vc_single_image-img attachment-full" alt="" />
+                                                        <div id="carouselExampleIndicators3" class="carousel slide" data-ride="carousel" style=" height: auto; width: 100%;">
+                                                            <ol class="carousel-indicators">
+                                                                <li data-target="#carouselExampleIndicators3" data-slide-to="0" class="active"></li>
+                                                                <li data-target="#carouselExampleIndicators3" data-slide-to="1"></li>
+                                                                <li data-target="#carouselExampleIndicators3" data-slide-to="2"></li>
+                                                            </ol>
+                                                            <div class="carousel-inner">
+                                                                <div class="carousel-item active">
+                                                                    <img class="d-block w-100" src="images/Evaluacion%20Psicometrica.JPG" alt="First slide">
+                                                                </div>
+                                                                <div class="carousel-item">
+                                                                    <img class="d-block w-100" src="images/psico2.jpg" alt="Second slide">
+                                                                </div>
+                                                                <div class="carousel-item">
+                                                                    <img class="d-block w-100" src="images/talend2.jpg" alt="Third slide">
+                                                                </div>
+                                                            </div>
+                                                            <a class="carousel-control-prev" href="#carouselExampleIndicators3" role="button" data-slide="prev">
+                                                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                                                <span class="sr-only">Previous</span>
+                                                            </a>
+                                                            <a class="carousel-control-next" href="#carouselExampleIndicators3" role="button" data-slide="next">
+                                                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                                                <span class="sr-only">Next</span>
+                                                            </a>
+                                                        </div>
                                                     </div>
                                                 </figure>
                                             </div>
@@ -326,7 +407,31 @@
                                             <div class="wpb_single_image wpb_content_element vc_align_left">
                                                 <figure class="wpb_wrapper vc_figure">
                                                     <div class="vc_single_image-wrapper vc_box_border_grey">
-                                                        <img src="images/9.jpg" class="vc_single_image-img attachment-full" alt="" />
+
+
+                                                        <div id="carouselExampleIndicators4" class="carousel slide" data-ride="carousel" style=" height: auto; width: 100%;">
+                                                            <ol class="carousel-indicators">
+                                                                <li data-target="#carouselExampleIndicators4" data-slide-to="0" class="active"></li>
+                                                                <li data-target="#carouselExampleIndicators4" data-slide-to="1"></li>
+                                                            </ol>
+                                                            <div class="carousel-inner">
+                                                                <div class="carousel-item active">
+                                                                    <img class="d-block w-100" src="images/9.jpg" alt="First slide">
+                                                                </div>
+                                                                <div class="carousel-item">
+                                                                    <img class="d-block w-100" src="images/pigcf.jpg" alt="Second slide">
+                                                                </div>
+                                                            </div>
+                                                            <a class="carousel-control-prev" href="#carouselExampleIndicators4" role="button" data-slide="prev">
+                                                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                                                <span class="sr-only">Previous</span>
+                                                            </a>
+                                                            <a class="carousel-control-next" href="#carouselExampleIndicators4" role="button" data-slide="next">
+                                                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                                                <span class="sr-only">Next</span>
+                                                            </a>
+                                                        </div>
+
                                                     </div>
                                                 </figure>
                                             </div>
@@ -357,7 +462,7 @@
                                                 <span class="vc_empty_space_inner"></span>
                                             </div>
                                             <div class="sc_item_button sc_button_wrap">
-                                                <a href="about-2.html" class="sc_button sc_button_default sc_button_size_large sc_button_icon_left">
+                                                <a href="\servicios" class="sc_button sc_button_default sc_button_size_large sc_button_icon_left">
                                                         <span class="sc_button_text">
                                                             <span class="sc_button_title">¡Contáctanos!</span>
                                                         </span>
@@ -383,7 +488,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid" style="opacity:1;">
                                 <div class="wpb_column vc_column_container vc_col-sm-6">
                                     <div class="vc_column-inner ">
@@ -408,7 +512,7 @@
                                                 <span class="vc_empty_space_inner"></span>
                                             </div>
                                             <div class="sc_item_button sc_button_wrap">
-                                                <a href="about-2.html" class="sc_button sc_button_default sc_button_size_large sc_button_icon_left">
+                                                <a href="\servicios" class="sc_button sc_button_default sc_button_size_large sc_button_icon_left">
                                                         <span class="sc_button_text">
                                                             <span class="sc_button_title">¡Contáctanos!</span>
                                                         </span>
@@ -426,7 +530,32 @@
                                             <div class="wpb_single_image wpb_content_element vc_align_left">
                                                 <figure class="wpb_wrapper vc_figure">
                                                     <div class="vc_single_image-wrapper vc_box_border_grey">
-                                                        <img src="images/Desarrollo%20organizacionl.jpg" class="vc_single_image-img attachment-full" alt="" />
+                                                        <div id="carouselExampleIndicators5" class="carousel slide" data-ride="carousel" style=" height: auto; width: 100%;">
+                                                            <ol class="carousel-indicators">
+                                                                <li data-target="#carouselExampleIndicators5" data-slide-to="0" class="active"></li>
+                                                                <li data-target="#carouselExampleIndicators5" data-slide-to="1"></li>
+                                                                <li data-target="#carouselExampleIndicators5" data-slide-to="2"></li>
+                                                            </ol>
+                                                            <div class="carousel-inner">
+                                                                <div class="carousel-item active">
+                                                                    <img class="d-block w-100" src="images/Desarrollo%20organizacionl.jpg" alt="First slide">
+                                                                </div>
+                                                                <div class="carousel-item">
+                                                                    <img class="d-block w-100" src="images/principal6.jpg" alt="Second slide">
+                                                                </div>
+                                                                <div class="carousel-item">
+                                                                    <img class="d-block w-100" src="images/dev.jpg" alt="Second slide">
+                                                                </div>
+                                                            </div>
+                                                            <a class="carousel-control-prev" href="#carouselExampleIndicators5" role="button" data-slide="prev">
+                                                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                                                <span class="sr-only">Previous</span>
+                                                            </a>
+                                                            <a class="carousel-control-next" href="#carouselExampleIndicators5" role="button" data-slide="next">
+                                                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                                                <span class="sr-only">Next</span>
+                                                            </a>
+                                                        </div>
                                                     </div>
                                                 </figure>
                                             </div>

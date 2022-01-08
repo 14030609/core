@@ -24,10 +24,17 @@
     <link rel="icon" href="images/c.png" />
 
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+        /* Make the image fully responsive */
+        .carousel-inner img {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
 </head>
 
 <body class="homepg home page body_style_wide scheme_default blog_style_excerpt sidebar_hide expand_content remove_margins header_style_header-2 header_title_off no_layout vc_responsive">
@@ -183,9 +190,172 @@
                     </div>
                 </div>
             </div>
-            <div class="page_content_wrap scheme_default">
+            <div class="page_content_wrap scheme_default"
 
-                <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style=" height: auto; width: 100%;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            >
+
+                <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style=" height: auto; width: 100%;">
                     <ol class="carousel-indicators">
                         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -193,13 +363,13 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="d-block w-100" src="images/principal1.jpg" alt="First slide">
+                            <img class="d-block w-100" src="images/cp3.jpg" alt="First slide">
                         </div>
                         <div class="carousel-item">
                             <img class="d-block w-100" src="images/principal2.jpg" alt="Second slide">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-100" src="images/principal4.jpg" alt="Third slide">
+                            <img class="d-block w-100" src="images/cp2.jpg" alt="Third slide">
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -219,7 +389,7 @@
                                     <div >
                                         <div >
                                             <div  >
-                                                <h5 style=" color: #ffffff">POR QUÉ SOMOS LOS MEJORES</h5>
+                                                <h1 ><strong style=" color: #ffffff">POR QUÉ SOMOS LOS MEJORES.</strong></h1>
                                                 <h2 style=" color: #ffffff">Somos profesionales especializados en ofrecer servicios integrales de Capital Humano.</h2>
 
                                             </div>
@@ -244,37 +414,15 @@
 
                 </div>
 
-                <div class="content_wrap">
-                    <div class="content">
+                <div class="content_wrap" >
+                    <div class="content" >
 
 
-                        <article class="post_item_single page hentry">
+                        <article class="post_item_single page hentry" >
                             <div class="post_content entry-content">
-                                <div class="vc_row-full-width vc_clearfix"></div>
-                                <div class="vc_row wpb_row vc_row-fluid fullwidth_1">
-                                    <div class="wpb_column vc_column_container vc_col-sm-12">
-                                        <div class="vc_column-inner ">
-                                            <div class="wpb_wrapper">
-                                                <div class="vc_empty_space empty_6-8">
-                                                    <span class="vc_empty_space_inner"></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
 
-                                <div class="vc_row wpb_row vc_row-fluid fullwidth_1">
-                                    <div class="wpb_column vc_column_container vc_col-sm-12">
-                                        <div class="vc_column-inner ">
-                                            <div class="wpb_wrapper">
-                                                <div class="vc_empty_space empty_6">
-                                                    <span class="vc_empty_space_inner"></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="vc_row wpb_row vc_row-fluid bg_position_center vc_custom_1474376739611 vc_row-has-fill fullwidth_1 scheme_dark">
+
+                                <div  data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid bg_position_center vc_custom_1474376739611 vc_row-has-fill fullwidth_1 scheme_dark">
                                     <div class="wpb_column vc_column_container vc_col-sm-12">
                                         <div class="vc_column-inner ">
                                             <div class="wpb_wrapper">
@@ -284,7 +432,7 @@
                                                 <div class="vc_empty_space empty_5 hide_on_mobile">
                                                     <span class="vc_empty_space_inner"></span>
                                                 </div>
-                                                <div id="sc_content_1211812500" class="sc_content sc_content_default sc_float_left sc_align_left bg_gradient sc_content_width_1_2 sc_padding_small">
+                                                <div id="sc_content_1211812500" class="sc_content sc_content_default sc_float_left sc_align_left bg_gradient sc_content_width_1_2 sc_padding_small" >
                                                     <div class="sc_content_container">
                                                         <div class="vc_empty_space empty_3">
                                                             <span class="vc_empty_space_inner"></span>
@@ -354,6 +502,7 @@
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="vc_row-full-width vc_clearfix"></div>
                                 <div class="vc_row wpb_row vc_row-fluid fullwidth_1">
                                     <div class="wpb_column vc_column_container vc_col-sm-12">
@@ -412,10 +561,10 @@
                                                                 <img class="d-block w-100" src="images/principal5.jpg" alt="First slide">
                                                             </div>
                                                             <div class="carousel-item">
-                                                                <img class="d-block w-100" src="images/principal6.jpg" alt="Second slide">
+                                                                <img class="d-block w-100" src="images/slide3.jpg" alt="Second slide">
                                                             </div>
                                                             <div class="carousel-item">
-                                                                <img class="d-block w-100" src="images/principal7.jpg" alt="Third slide">
+                                                                <img class="d-block w-100" src="images/slide4.jpg" alt="Third slide">
                                                             </div>
                                                         </div>
                                                         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -507,7 +656,6 @@
         </div>
     </div>
 
-
     <script type='text/javascript' src='js/vendor/jQuery/jquery.js'></script>
     <script type='text/javascript' src='js/vendor/jQuery/jquery-migrate.min.js'></script>
     <script type='text/javascript' src='js/custom/custom.js'></script>
@@ -523,6 +671,7 @@
     <script type='text/javascript' src='js/custom/embed.min.js'></script>
     <script type='text/javascript' src='js/vendor/js_comp/js_comp.min.js'></script>
     <a href="#" class="trx_addons_scroll_to_top trx_addons_icon-up" title="Scroll to top"></a>
+
 </body>
 
 
