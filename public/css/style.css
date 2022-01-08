@@ -5272,3 +5272,7 @@ iframe[name="google_conversion_frame"] { height:1px; min-height:0px; display:non
 .scheme_default .post_layout_chess_3 .post_content_inner:after {
     background: transparent !important;
 }
+.page_content_wrap.scheme_default
+{
+    background-color: #e6e4e4;
+}

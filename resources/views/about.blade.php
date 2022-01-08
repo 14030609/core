@@ -212,23 +212,12 @@
                 </a>
             </div>
 
-            <div class="content_wrap">
-                <div class="content">
+            <div class="">
+                <div class="content" style="padding: 2em">
                     <article class="post_item_single page hentry">
                         <div class="post_content entry-content">
 
                             <div class="vc_row-full-width vc_clearfix"></div>
-                            <div class="vc_row wpb_row vc_row-fluid fullwidth_1">
-                                <div class="wpb_column vc_column_container vc_col-sm-12">
-                                    <div class="vc_column-inner ">
-                                        <div class="wpb_wrapper">
-                                            <div class="vc_empty_space empty_6-8">
-                                                <span class="vc_empty_space_inner"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
 
                             <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid">
                                 <div class="wpb_column vc_column_container vc_col-sm-6">
@@ -309,17 +298,6 @@
                             </div>
 
                             <div class="vc_row-full-width vc_clearfix"></div>
-                            <div class="vc_row wpb_row vc_row-fluid fullwidth_1">
-                                <div class="wpb_column vc_column_container vc_col-sm-12">
-                                    <div class="vc_column-inner ">
-                                        <div class="wpb_wrapper">
-                                            <div class="vc_empty_space empty_6-8">
-                                                <span class="vc_empty_space_inner"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
 
                             <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid" style="opacity:1;">
                                 <div class="wpb_column vc_column_container vc_col-sm-6">
@@ -477,17 +455,7 @@
                             </div>
 
                             <div class="vc_row-full-width vc_clearfix"></div>
-                            <div class="vc_row wpb_row vc_row-fluid fullwidth_1">
-                                <div class="wpb_column vc_column_container vc_col-sm-12">
-                                    <div class="vc_column-inner ">
-                                        <div class="wpb_wrapper">
-                                            <div class="vc_empty_space empty_6-8">
-                                                <span class="vc_empty_space_inner"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+
                             <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid" style="opacity:1;">
                                 <div class="wpb_column vc_column_container vc_col-sm-6">
                                     <div class="vc_column-inner ">

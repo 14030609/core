@@ -190,170 +190,7 @@
                     </div>
                 </div>
             </div>
-            <div class="page_content_wrap scheme_default"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            >
+            <div class="page_content_wrap scheme_default">
 
                 <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style=" height: auto; width: 100%;">
                     <ol class="carousel-indicators">
@@ -413,6 +250,39 @@
                     </div>
 
                 </div>
+                <div  data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid bg_position_center vc_custom_1474376739611 vc_row-has-fill fullwidth_1 scheme_dark">
+                    <div class="wpb_column vc_column_container vc_col-sm-12">
+                        <div class="vc_column-inner ">
+                            <div class="wpb_wrapper">
+                                <div class="vc_empty_space empty_8 hide_on_mobile hide_on_tablet">
+                                    <span class="vc_empty_space_inner"></span>
+                                </div>
+                                <div class="vc_empty_space empty_5 hide_on_mobile">
+                                    <span class="vc_empty_space_inner"></span>
+                                </div>
+                                <div id="sc_content_1211812500" class="sc_content sc_content_default sc_float_left sc_align_left bg_gradient sc_content_width_1_2 sc_padding_small" >
+                                    <div class="sc_content_container">
+                                        <div class="vc_empty_space empty_3">
+                                            <span class="vc_empty_space_inner"></span>
+                                        </div>
+                                        <div class="wpb_text_column wpb_content_element ">
+                                            <div class="wpb_wrapper">
+                                                <h3>Enfrenta problemas complejos de recursos humanos con confianza de la mano de nuestros especialistas</h3>
+                                            </div>
+                                        </div>
+                                        <div class="sc_icons sc_icons_default sc_icons_size_small sc_align_left">
+                                            <div class="sc_icons_item">
+                                                <div class="sc_icons_icon sc_icons_icon_type_fontawesome icon-line">
+                                                    <span class="sc_icons_icon_type_fontawesome icon-line"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
                 <div class="content_wrap" >
                     <div class="content" >
@@ -422,39 +292,6 @@
                             <div class="post_content entry-content">
 
 
-                                <div  data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid bg_position_center vc_custom_1474376739611 vc_row-has-fill fullwidth_1 scheme_dark">
-                                    <div class="wpb_column vc_column_container vc_col-sm-12">
-                                        <div class="vc_column-inner ">
-                                            <div class="wpb_wrapper">
-                                                <div class="vc_empty_space empty_8 hide_on_mobile hide_on_tablet">
-                                                    <span class="vc_empty_space_inner"></span>
-                                                </div>
-                                                <div class="vc_empty_space empty_5 hide_on_mobile">
-                                                    <span class="vc_empty_space_inner"></span>
-                                                </div>
-                                                <div id="sc_content_1211812500" class="sc_content sc_content_default sc_float_left sc_align_left bg_gradient sc_content_width_1_2 sc_padding_small" >
-                                                    <div class="sc_content_container">
-                                                        <div class="vc_empty_space empty_3">
-                                                            <span class="vc_empty_space_inner"></span>
-                                                        </div>
-                                                        <div class="wpb_text_column wpb_content_element ">
-                                                            <div class="wpb_wrapper">
-                                                                <h3>Enfrenta problemas complejos de recursos humanos con confianza de la mano de nuestros especialistas</h3>
-                                                            </div>
-                                                        </div>
-                                                        <div class="sc_icons sc_icons_default sc_icons_size_small sc_align_left">
-                                                            <div class="sc_icons_item">
-                                                                <div class="sc_icons_icon sc_icons_icon_type_fontawesome icon-line">
-                                                                    <span class="sc_icons_icon_type_fontawesome icon-line"></span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
                                 <div class="vc_row wpb_row vc_row-fluid fullwidth_1">
                                     <div class="wpb_column vc_column_container vc_col-sm-12">
                                         <div class="vc_column-inner ">
@@ -504,93 +341,78 @@
                                 </div>
 
                                 <div class="vc_row-full-width vc_clearfix"></div>
-                                <div class="vc_row wpb_row vc_row-fluid fullwidth_1">
-                                    <div class="wpb_column vc_column_container vc_col-sm-12">
-                                        <div class="vc_column-inner ">
-                                            <div class="wpb_wrapper">
-                                                <div class="vc_empty_space empty_6-8">
-                                                    <span class="vc_empty_space_inner"></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid" style="opacity:1;">
-                                    <div class="wpb_column vc_column_container vc_col-sm-6">
-                                        <div class="vc_column-inner ">
-                                            <div class="wpb_wrapper">
-                                                <div class="wpb_text_column wpb_content_element ">
-                                                    <div class="wpb_wrapper">
-                                                        <h5 class="cblue">CORE</h5>
-                                                        <h1>Soluciones en capital humano</h1>
-                                                        <p>
-                                                           Somos una consultoria de recursos humanos que ofrece el servicio <br> de asesoría y servicios
-                                                            especializados en selección de personal técnico, gerencial, directivo y estratégico, orientada
-                                                            a la calidad y resultados.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="vc_empty_space empty_2-5">
-                                                    <span class="vc_empty_space_inner"></span>
-                                                </div>
-                                                <div class="sc_item_button sc_button_wrap">
-                                                    <a href="/servicios" class="sc_button sc_button_default sc_button_size_large sc_button_icon_left">
-                                                        <span class="sc_button_text">
-                                                            <span class="sc_button_title">¡Conoce más!</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                                <div class="vc_empty_space empty_6-4">
-                                                    <span class="vc_empty_space_inner"></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="wpb_column vc_column_container vc_col-sm-6">
-                                        <div class="vc_column-inner ">
-                                            <div class="wpb_wrapper">
-                                                <div class="wpb_single_image wpb_content_element vc_align_left">
-                                                    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style=" height: auto; width: 100%;">
-                                                        <ol class="carousel-indicators">
-                                                            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                                                            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                                                            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-                                                        </ol>
-                                                        <div class="carousel-inner">
-                                                            <div class="carousel-item active">
-                                                                <img class="d-block w-100" src="images/principal5.jpg" alt="First slide">
-                                                            </div>
-                                                            <div class="carousel-item">
-                                                                <img class="d-block w-100" src="images/slide3.jpg" alt="Second slide">
-                                                            </div>
-                                                            <div class="carousel-item">
-                                                                <img class="d-block w-100" src="images/slide4.jpg" alt="Third slide">
-                                                            </div>
-                                                        </div>
-                                                        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                                                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                                            <span class="sr-only">Previous</span>
-                                                        </a>
-                                                        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                                                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                                            <span class="sr-only">Next</span>
-                                                        </a>
-                                                    </div>
-
-                                                </div>
-                                                <div class="vc_empty_space empty_6-4">
-                                                    <span class="vc_empty_space_inner"></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
 
 
                             </div>
                         </article>
                     </div>
                 </div>
+                <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid" style="opacity:1; display: flex; align-items: stretch">
+                    <div class="wpb_column vc_column_container vc_col-sm-6" style="margin: auto; display: flex; align-items: stretch">
+                        <div class="vc_column-inner " style="display: flex; align-items: stretch">
+                            <div class="wpb_wrapper" style="display: flex; align-items: stretch">
+                                <div class="wpb_text_column wpb_content_element " style="display: flex; align-items: stretch">
+                                    <div class="wpb_wrapper" style="margin: auto; padding-left: 2em">
+                                        <h5 class="cblue">CORE</h5>
+                                        <h1>Soluciones en capital humano</h1>
+                                        <p>
+                                            Somos una consultoria de recursos humanos que ofrece el servicio <br> de asesoría y servicios
+                                            especializados en selección de personal técnico, gerencial, directivo y estratégico, orientada
+                                            a la calidad y resultados.
+                                        </p>
+                                        <div class="sc_item_button sc_button_wrap">
+                                            <a href="/servicios" class="sc_button sc_button_default sc_button_size_large sc_button_icon_left">
+                                                        <span class="sc_button_text">
+                                                            <span class="sc_button_title">¡Conoce más!</span>
+                                                        </span>
+                                            </a>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="wpb_column vc_column_container vc_col-sm-6">
+                        <div class="vc_column-inner ">
+                            <div class="wpb_wrapper">
+                                <div class="wpb_single_image wpb_content_element vc_align_left">
+                                    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style=" height: auto; width: 100%;">
+                                        <ol class="carousel-indicators">
+                                            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                                            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                                            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                                        </ol>
+                                        <div class="carousel-inner">
+                                            <div class="carousel-item active">
+                                                <img class="d-block w-100" src="images/principal5.jpg" alt="First slide">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img class="d-block w-100" src="images/slide3.jpg" alt="Second slide">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img class="d-block w-100" src="images/slide4.jpg" alt="Third slide">
+                                            </div>
+                                        </div>
+                                        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                            <span class="sr-only">Previous</span>
+                                        </a>
+                                        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                            <span class="sr-only">Next</span>
+                                        </a>
+                                    </div>
+
+                                </div>
+                                <div class="vc_empty_space empty_6-4">
+                                    <span class="vc_empty_space_inner"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
             <footer class="site_footer_wrap">
                 <div class="footer_wrap widget_area scheme_dark">
