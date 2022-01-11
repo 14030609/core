@@ -97,7 +97,8 @@ class PostController extends Controller
                 //return redirect()->route('post');
                 //return redirect('/post');
             }
-            return    session('activo');
+            return 1;
+
         }
     }
 

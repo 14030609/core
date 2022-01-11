@@ -122,45 +122,18 @@
 
 
             </header>
-
+            <div class="menu_mobile_overlay"></div>
             <div class="menu_mobile scheme_">
                 <div class="menu_mobile_inner">
                     <a class="menu_mobile_close icon-cancel"></a>
                     <nav class="menu_mobile_nav_area">
                         <ul id="menu_mobile" class="sc_layouts_menu_nav menu_main_nav">
-                            <li class="menu-item current-menu-ancestor current-menu-parent menu-item-has-children"><a><span>Inicio</span></a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item"><a href="/servicios"><span>Servicios</span></a></li>
-                                   </ul>
-                            </li>
-                            <li class="menu-item menu-item-has-children"><a href="#"><span>Features</span></a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item"><a href="typography.html"><span>Typography</span></a></li>
-                                    <li class="menu-item"><a href="shortcodes.html"><span>Shortcodes</span></a></li>
-                                    <li class="menu-item"><a href="support.html"><span>Support</span></a></li>
-                                    <li class="menu-item"><a href="customization.html"><span>Customization</span></a></li>
-                                    <li class="menu-item"><a href="video.html"><span>Video Tutorials</span></a></li>
-                                </ul>
-                            </li>
-                            <li class="menu-item menu-item-has-children"><a href="#"><span>Blog</span></a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item menu-item-has-children"><a><span>Blog Style 1</span></a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item"><a href="blog-1-chess.html"><span>Blog Style &#8216;Chess&#8217; /1 column/</span></a></li>
-                                            <li class="menu-item"><a href="blog-2-chess.html"><span>Blog Style &#8216;Chess&#8217; /2 columns/</span></a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children"><a><span>Blog Style 2</span></a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item"><a href="blog-2-classic.html"><span>Blog Style &#8216;Classic&#8217; /2 columns/</span></a></li>
-                                            <li class="menu-item"><a href="blog-3-classic.html"><span>Blog style &#8216;Classic&#8217; /3 columns/</span></a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item"><a href="post-formats.html"><span>Post Formats</span></a></li>
-                                    <li class="menu-item"><a href="single-post.blade.php"><span>Post With Comments</span></a></li>
-                                </ul>
-                            </li>
-                            <li class="menu-item"><a href="/contactos"><span>Contacts</span></a></li>
+                            <li class="menu-item"><a href="\"><span>Inicio</span></a></li>
+                            <li class="menu-item"><a href="\servicios"><span>Servicios</span></a></li>
+                            <li class="menu-item"><a href="\contactos"><span>Contacto</span></a></li>
+                            <li class="menu-item"><a href="\empleo"><span>Empleo</span></a></li>
+                            <li class="menu-item"><a href="\blog"><span>Blog</span></a></li>
+
                         </ul>
                     </nav>
                     <!--div class="search_mobile">
@@ -190,7 +163,7 @@
                     </div>
                 </div>
             </div>
-            <div class="page_content_wrap scheme_default">
+            <div class="page_content_wrap scheme_default" style="background-color: #e6e4e4;">
 
                 <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style=" height: auto; width: 100%;">
                     <ol class="carousel-indicators">
@@ -218,14 +191,14 @@
                         <span class="sr-only">Next</span>
                     </a>
                 </div>
-                <div style="background-color: #0374a6; color: #ffffff; padding: 5em" >
+                <div style="background-color: #0374a6; color: #ffffff; padding: 2em" >
                     <div class="content_wrap" >
                         <div class="vc_row wpb_row vc_row-fluid fullwidth_1"  >
                             <div class="wpb_column vc_column_container vc_col-sm-6">
                                 <div class="vc_column-inner ">
-                                    <div >
-                                        <div >
-                                            <div  >
+                                    <div class="wpb_wrapper">
+                                        <div class="wpb_text_column wpb_content_element ">
+                                            <div class="wpb_wrapper">
                                                 <h1 ><strong style=" color: #ffffff">POR QUÉ SOMOS LOS MEJORES.</strong></h1>
                                                 <h2 style=" color: #ffffff">Somos profesionales especializados en ofrecer servicios integrales de Capital Humano.</h2>
 
@@ -352,7 +325,7 @@
                         <div class="vc_column-inner " style="display: flex; align-items: stretch">
                             <div class="wpb_wrapper" style="display: flex; align-items: stretch">
                                 <div class="wpb_text_column wpb_content_element " style="display: flex; align-items: stretch">
-                                    <div class="wpb_wrapper" style="margin: auto; padding-left: 2em">
+                                    <div class="wpb_wrapper" style="margin: auto; padding-left: 2em; ">
                                         <h5 class="cblue">CORE</h5>
                                         <h1>Soluciones en capital humano</h1>
                                         <p>
@@ -373,11 +346,11 @@
                             </div>
                         </div>
                     </div>
-                    <div class="wpb_column vc_column_container vc_col-sm-6">
-                        <div class="vc_column-inner ">
-                            <div class="wpb_wrapper">
-                                <div class="wpb_single_image wpb_content_element vc_align_left">
-                                    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style=" height: auto; width: 100%;">
+                    <div class="wpb_column vc_column_container vc_col-sm-6" style="margin: auto; display: flex; align-items: stretch;">
+                        <div class="vc_column-inner" style="margin: auto; display: flex; align-items: stretch; padding: 0em">
+                            <div class="wpb_wrapper" style="display: flex; align-items: stretch;">
+                                <div class="wpb_single_image wpb_content_element vc_align_left"  >
+                                    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="margin: auto; display: flex; align-items: stretch;">
                                         <ol class="carousel-indicators">
                                             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                                             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -433,12 +406,11 @@
                                     <h5 class="widget_title">Navegación</h5>
                                     <div class="menu-footer-navigate-container">
                                         <ul id="menu-footer-navigate" class="menu">
-                                            <li class="menu-item"><a href="/servicios">Servicios</a></li>
-                                            <li class="menu-item"><a href="/nosotros">Nosotros</a></li>
-                                            <li class="menu-item"><a href="/cotizacion">Cotización</a></li>
-                                            <li class="menu-item"><a href="/contactos">Contacto</a></li>
-                                            <li class="menu-item"><a href="/empleo">Empleo</a></li>
-
+                                            <li class="menu-item"><a href="\servicios">Servicios</a></li>
+                                            <li class="menu-item"><a href="\cotizacion">Cotización</a></li>
+                                            <li class="menu-item"><a href="\contactos">Contacto</a></li>
+                                            <li class="menu-item"><a href="\empleo">Empleo</a></li>
+                                            <li class="menu-item"><a href="\blog">Blog</a></li>
                                             <li class="menu-item current-menu-item"><a href="/">Inicio</a></li>
                                             <!--li class="menu-item"><a href="post-formats.html">Blog</a></li-->
                                         </ul>

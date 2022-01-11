@@ -131,40 +131,12 @@
                     <a class="menu_mobile_close icon-cancel"></a>
                     <nav class="menu_mobile_nav_area">
                         <ul id="menu_mobile" class="sc_layouts_menu_nav menu_main_nav">
-                            <li class="menu-item current-menu-ancestor current-menu-parent menu-item-has-children"><a><span>Inicio</span></a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item"><a href="services.blade.php"><span>Nosotros</span></a></li>
-                                    <li class="menu-item"><a href="about.blade.php"><span>Servicios</span></a></li>
-                                </ul>
-                            </li>
-                            <li class="menu-item menu-item-has-children"><a href="#"><span>Features</span></a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item"><a href="typography.html"><span>Typography</span></a></li>
-                                    <li class="menu-item"><a href="shortcodes.html"><span>Shortcodes</span></a></li>
-                                    <li class="menu-item"><a href="support.html"><span>Support</span></a></li>
-                                    <li class="menu-item"><a href="customization.html"><span>Customization</span></a></li>
-                                    <li class="menu-item"><a href="video.html"><span>Video Tutorials</span></a></li>
-                                </ul>
-                            </li>
-                            <li class="menu-item menu-item-has-children"><a href="#"><span>Blog</span></a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item menu-item-has-children"><a><span>Blog Style 1</span></a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item"><a href="blog-1-chess.html"><span>Blog Style &#8216;Chess&#8217; /1 column/</span></a></li>
-                                            <li class="menu-item"><a href="blog-2-chess.html"><span>Blog Style &#8216;Chess&#8217; /2 columns/</span></a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children"><a><span>Blog Style 2</span></a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item"><a href="blog-2-classic.html"><span>Blog Style &#8216;Classic&#8217; /2 columns/</span></a></li>
-                                            <li class="menu-item"><a href="blog-3-classic.html"><span>Blog style &#8216;Classic&#8217; /3 columns/</span></a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item"><a href="post-formats.html"><span>Post Formats</span></a></li>
-                                    <li class="menu-item"><a href="single-post.html"><span>Post With Comments</span></a></li>
-                                </ul>
-                            </li>
-                            <li class="menu-item"><a href="contacts2.blade.php"><span>Contacts</span></a></li>
+                            <li class="menu-item"><a href="\"><span>Inicio</span></a></li>
+                            <li class="menu-item"><a href="\servicios"><span>Servicios</span></a></li>
+                            <li class="menu-item"><a href="\contactos"><span>Contacto</span></a></li>
+                            <li class="menu-item"><a href="\empleo"><span>Empleo</span></a></li>
+                            <li class="menu-item"><a href="\blog"><span>Blog</span></a></li>
+
                         </ul>
                     </nav>
                     <!--div class="search_mobile">

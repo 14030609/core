@@ -122,40 +122,12 @@
                     <a class="menu_mobile_close icon-cancel"></a>
                     <nav class="menu_mobile_nav_area">
                         <ul id="menu_mobile" class="sc_layouts_menu_nav menu_main_nav">
-                            <li class="menu-item current-menu-ancestor current-menu-parent menu-item-has-children"><a><span>Inicio</span></a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item"><a href="services.blade.php"><span>Nosotros</span></a></li>
-                                    <li class="menu-item"><a href="about.blade.php"><span>Servicios</span></a></li>
-                                </ul>
-                            </li>
-                            <li class="menu-item menu-item-has-children"><a href="#"><span>Features</span></a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item"><a href="typography.html"><span>Typography</span></a></li>
-                                    <li class="menu-item"><a href="shortcodes.html"><span>Shortcodes</span></a></li>
-                                    <li class="menu-item"><a href="support.html"><span>Support</span></a></li>
-                                    <li class="menu-item"><a href="customization.html"><span>Customization</span></a></li>
-                                    <li class="menu-item"><a href="video.html"><span>Video Tutorials</span></a></li>
-                                </ul>
-                            </li>
-                            <li class="menu-item menu-item-has-children"><a href="#"><span>Blog</span></a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item menu-item-has-children"><a><span>Blog Style 1</span></a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item"><a href="blog-1-chess.html"><span>Blog Style &#8216;Chess&#8217; /1 column/</span></a></li>
-                                            <li class="menu-item"><a href="blog-2-chess.html"><span>Blog Style &#8216;Chess&#8217; /2 columns/</span></a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children"><a><span>Blog Style 2</span></a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item"><a href="blog-2-classic.html"><span>Blog Style &#8216;Classic&#8217; /2 columns/</span></a></li>
-                                            <li class="menu-item"><a href="blog-3-classic.html"><span>Blog style &#8216;Classic&#8217; /3 columns/</span></a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item"><a href="post-formats.html"><span>Post Formats</span></a></li>
-                                    <li class="menu-item"><a href="single-post.html"><span>Post With Comments</span></a></li>
-                                </ul>
-                            </li>
-                            <li class="menu-item"><a href="contacts.blade.php"><span>Contacts</span></a></li>
+                            <li class="menu-item"><a href="\"><span>Inicio</span></a></li>
+                            <li class="menu-item"><a href="\servicios"><span>Servicios</span></a></li>
+                            <li class="menu-item"><a href="\contactos"><span>Contacto</span></a></li>
+                            <li class="menu-item"><a href="\empleo"><span>Empleo</span></a></li>
+                            <li class="menu-item"><a href="\blog"><span>Blog</span></a></li>
+
                         </ul>
                     </nav>
                     <!--div class="search_mobile">
@@ -186,7 +158,7 @@
                 </div>
             </div>
 
-            <div class="page_content_wrap scheme_default">
+            <div class="page_content_wrap scheme_default" style="background-color: #e6e4e4;">
                 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style=" height: auto; width: 100%;">
                     <ol class="carousel-indicators">
                         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -227,38 +199,38 @@
                                                     <span class="vc_empty_space_inner"></span>
                                                 </div>
                                                 <div class="sc_form sc_form_modern">
-                                                    <form class="sc_form_form" method="post" action="includes/sendmail.php">
-                                                        <div class="sc_form_info">
-                                                            <div class="trx_addons_columns_wrap columns_padding_bottom">
-                                                                <div class="trx_addons_column-1_3">
-                                                                    <div class="sc_form_info_item sc_form_info_item_address">
-                                                                        <span class="sc_form_info_icon"></span>
-                                                                        <span class="sc_form_info_data">
+                                                    <form class="sc_form_form" method="post" action="includes/sendmail.php" >
+                                                        <div style=" display: flex; align-items: stretch">
+                                                            <div class="trx_addons_column-1_3" >
+                                                                <div class="sc_form_info_item sc_form_info_item_address" >
+                                                                    <span class="sc_form_info_icon"></span>
+                                                                    <span class="sc_form_info_data">
                                                                             <span>Querétaro, Querétaro</span>
                                                                         </span>
-                                                                    </div>
                                                                 </div>
-                                                                <div class="trx_addons_column-1_3">
-                                                                    <div class="sc_form_info_item sc_form_info_item_email">
-                                                                        <span class="sc_form_info_icon"></span>
-                                                                        <span class="sc_form_info_data">
+                                                            </div>
+                                                            <div class="trx_addons_column-1_3" >
+                                                                <div class="sc_form_info_item sc_form_info_item_email">
+                                                                    <span class="sc_form_info_icon"></span>
+                                                                    <span class="sc_form_info_data">
                                                                             <a href="mailto:info@yoursite.com&lt;br /&gt;&#10;www.yoursite.com">
                                                                                 soluciones@core-consultoria.com
                                                                                 <br>www.core-consultoria.com
                                                                             </a>
                                                                         </span>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="trx_addons_column-1_3">
-                                                                    <div class="sc_form_info_item sc_form_info_item_phone">
-                                                                        <span class="sc_form_info_icon"></span>
-                                                                        <span class="sc_form_info_data">
-                                                                            <span>4423768429</span>
-                                                                        </span>
-                                                                    </div>
                                                                 </div>
                                                             </div>
+                                                            <div class="trx_addons_column-1_3" >
+                                                                <div class="sc_form_info_item sc_form_info_item_phone">
+                                                                    <span class="sc_form_info_icon"></span>
+                                                                    <span class="sc_form_info_data">
+                                                                            <span>4423768429</span>
+                                                                        </span>
+                                                                </div>
+                                                            </div>
+
                                                         </div>
+                                                        <br>
                                                         <div class="sc_form_fields">
                                                             <div class="trx_addons_columns_wrap">
                                                                 <div class="sc_form_details trx_addons_column-1_2">
@@ -308,7 +280,7 @@
                             <div class="columns_wrap">
                                 <aside class="column-1_4 widget widget_text">
                                     <div class="textwidget">
-                                        <img src="images/LOGOTIPO-%20PNG-%20BLANCO%20-CORE.png" alt="CORE">
+                                        <img src="images/LOGOTIPO- PNG- BLANCO -CORE.png" alt="CORE">
                                         <ul class="trx_addons_list  icons">
                                             <li class="icon-home-alt">Querétaro, Querétaro</li>
                                             <li class="icon-white">soluciones@core-consultoria.com</li>
@@ -320,12 +292,11 @@
                                     <h5 class="widget_title">Navegación</h5>
                                     <div class="menu-footer-navigate-container">
                                         <ul id="menu-footer-navigate" class="menu">
-                                            <li class="menu-item"><a href="/servicios">Servicios</a></li>
-                                            <li class="menu-item"><a href="/nosotros">Nosotros</a></li>
-                                            <li class="menu-item"><a href="/cotizacion">Cotización</a></li>
-                                            <li class="menu-item"><a href="/contactos">Contacto</a></li>
-                                            <li class="menu-item"><a href="/empleo">Empleo</a></li>
-
+                                            <li class="menu-item"><a href="\servicios">Servicios</a></li>
+                                            <li class="menu-item"><a href="\cotizacion">Cotización</a></li>
+                                            <li class="menu-item"><a href="\contactos">Contacto</a></li>
+                                            <li class="menu-item"><a href="\empleo">Empleo</a></li>
+                                            <li class="menu-item"><a href="\blog">Blog</a></li>
                                             <li class="menu-item current-menu-item"><a href="/">Inicio</a></li>
                                             <!--li class="menu-item"><a href="post-formats.html">Blog</a></li-->
                                         </ul>
@@ -358,7 +329,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>|
+                        </div>
                     </div>
                 </div>
             </footer>

@@ -5232,7 +5232,7 @@ iframe[name="google_conversion_frame"] { height:1px; min-height:0px; display:non
 }
 @media (max-width: 767px){
 	.top_panel_style_2 .scheme_dark .menu_mobile_button, .top_panel_style_2  .scheme_dark .menu_mobile_button:before{
-		border-color: #fff !important;
+		border-color: #035a95 !important;
 	}
 }
 
@@ -5274,5 +5274,5 @@ iframe[name="google_conversion_frame"] { height:1px; min-height:0px; display:non
 }
 .page_content_wrap.scheme_default
 {
-    background-color: #e6e4e4;
+        background-color: #e6e4e4;
 }

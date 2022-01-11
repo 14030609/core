@@ -173,12 +173,11 @@
                                 <h5 class="widget_title">Navegación</h5>
                                 <div class="menu-footer-navigate-container">
                                     <ul id="menu-footer-navigate" class="menu">
-                                        <li class="menu-item"><a href="/servicios">Servicios</a></li>
-                                        <li class="menu-item"><a href="/nosotros">Nosotros</a></li>
-                                        <li class="menu-item"><a href="/cotizacion">Cotización</a></li>
-                                        <li class="menu-item"><a href="/contactos">Contacto</a></li>
-                                        <li class="menu-item"><a href="/empleo">Empleo</a></li>
-
+                                        <li class="menu-item"><a href="\servicios">Servicios</a></li>
+                                        <li class="menu-item"><a href="\cotizacion">Cotización</a></li>
+                                        <li class="menu-item"><a href="\contactos">Contacto</a></li>
+                                        <li class="menu-item"><a href="\empleo">Empleo</a></li>
+                                        <li class="menu-item"><a href="\blog">Blog</a></li>
                                         <li class="menu-item current-menu-item"><a href="/">Inicio</a></li>
                                         <!--li class="menu-item"><a href="post-formats.html">Blog</a></li-->
                                     </ul>

@@ -1,7 +1,10 @@
 <?php
+
+
 if (session('activo')==0)
 {
     print_r("No estas logueado, por favor inicia sesion");
+
     return redirect('/singin');
     die();
 }

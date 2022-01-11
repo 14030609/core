@@ -30,6 +30,9 @@ Route::get('/nosotros', function () {return view('services');});
 Route::get('/', function () {
     return view('index');
 });
+Route::get('/2', function () {
+    return view('home2');
+});
 
 Route::get('/singin', function () {
     return view('login');
