@@ -90,16 +90,26 @@ class PostController extends Controller
     public function inicioSesion(Request $request)
     {
 //        header('Access-Control-Allow-Origin: *');
-        session(['activo' => '0']);
+               $request->session()->forget('activo');
+
         if($request['correo']=='core@correo.com' ) {
             if ($request['contrasenia'] == '123456789') {
                 session(['activo' => '1']);
                 //return redirect()->route('post');
                 //return redirect('/post');
+                return 1;
+            }else
+            {
+                    session(['activo' => 0]);
+             return 0;
             }
-            return 1;
+        }            
+        else{
+                    session(['activo' => 0]);
+             return 0;
+            }
 
-        }
+        return 0;
     }
 
     /**
