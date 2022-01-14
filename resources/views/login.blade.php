@@ -91,7 +91,7 @@
                 console.log(datos);
                 if(datos==1){
                     alert("Se ha logueado correctamente");
-                location.href = "/post";
+                location.href = "\post";
                 }
                 else{
                     alert("Error al loguearse");
