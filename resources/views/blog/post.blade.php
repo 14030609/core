@@ -1,16 +1,16 @@
 <?php
 
 
-print_r(session('activo'));
- die();
+//print_r(session('activo'));
+ //die();
 
-if (session('activo')==0)
-{
-    print_r("No estas logueado, por favor inicia sesion");
+//if (session('activo')==0)
+//{
+//    print_r("No estas logueado, por favor inicia sesion");
 
-    return redirect('/singin');
-    die();
-}
+  //  return redirect('/singin');
+    //die();
+//}
 ?>
 
     <!DOCTYPE html>
