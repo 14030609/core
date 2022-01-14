@@ -273,6 +273,39 @@
                             <div class="vc_row-full-width vc_clearfix"></div>
 
                             <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid">
+                                <div class="wpb_column vc_column_container vc_col-sm-6" id="contenido2" >
+                                    <div class="vc_column-inner ">
+                                        <div class="wpb_wrapper">
+                                            <div class="wpb_text_column wpb_content_element ">
+                                                <div class="wpb_wrapper">
+                                                    <h5 class="cblue">Nuestros servicios</h5>
+                                                    <h1>Evaluación socioeconómica</h1>
+                                                    <p>
+                                                        Le permitirá conocer el entorno económico y social de su candidato, se lleva mediante un estudio de campo para validar información para asegurar la confiabilidad de los datos.<br>
+                                                        1) Visita Domiciliar<br>
+                                                        2) Entrevista al candidato<br>
+                                                        3) Levantamiento fotográfico candidato (a), fechada e interior de vivienda<br>
+                                                        4) Validación 2 Referencias profesionales.<br>
+                                                        5) Verificación de Documentos.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <div class="vc_empty_space empty_2-5">
+                                                <span class="vc_empty_space_inner"></span>
+                                            </div>
+                                            <div class="sc_item_button sc_button_wrap">
+                                                <a href="\servicios" class="sc_button sc_button_default sc_button_size_large sc_button_icon_left">
+                                                        <span class="sc_button_text">
+                                                            <span class="sc_button_title">¡Contáctanos!</span>
+                                                        </span>
+                                                </a>
+                                            </div>
+                                            <div class="vc_empty_space empty_6-4">
+                                                <span class="vc_empty_space_inner"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div >
                                 <div class="wpb_column vc_column_container vc_col-sm-6">
                                     <div class="vc_column-inner ">
                                         <div class="wpb_wrapper">
@@ -313,7 +346,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="wpb_column vc_column_container vc_col-sm-6">
+                                <div class="wpb_column vc_column_container vc_col-sm-6" id="contenido2-2" >
                                     <div class="vc_column-inner ">
                                         <div class="wpb_wrapper">
                                             <div class="wpb_text_column wpb_content_element ">
@@ -346,7 +379,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div >
 
                             <div class="vc_row-full-width vc_clearfix"></div>
 
@@ -431,6 +464,39 @@
                             <div class="vc_row-full-width vc_clearfix"></div>
 
                             <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid">
+                                <div class="wpb_column vc_column_container vc_col-sm-6" id="contenido4">
+                                    <div class="vc_column-inner ">
+                                        <div class="wpb_wrapper">
+                                            <div class="wpb_text_column wpb_content_element ">
+                                                <div class="wpb_wrapper">
+                                                    <h5 class="cblue">Nuestros servicios</h5>
+                                                    <h1>Atracción de talento</h1>
+                                                    <p>
+                                                        Atraer el talento humano que reúna las habilidades y competencias requeridas que le garantizaran el éxito de su negocio <br>
+                                                        1) Levantamiento de Perfil y Analís de Negocio. <br>
+                                                        2) Selección ideal para su difusión (Herramientas Tecnológicas)<br>
+                                                        3) Aplicación de Filtros.<br>
+                                                        4) Ingresos.<br>
+                                                        5) Garantía.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <div class="vc_empty_space empty_2-5">
+                                                <span class="vc_empty_space_inner"></span>
+                                            </div>
+                                            <div class="sc_item_button sc_button_wrap">
+                                                <a href="\servicios" class="sc_button sc_button_default sc_button_size_large sc_button_icon_left">
+                                                        <span class="sc_button_text">
+                                                            <span class="sc_button_title">¡Contáctanos!</span>
+                                                        </span>
+                                                </a>
+                                            </div>
+                                            <div class="vc_empty_space empty_6-4">
+                                                <span class="vc_empty_space_inner"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                                 <div class="wpb_column vc_column_container vc_col-sm-6">
                                     <div class="vc_column-inner ">
                                         <div class="wpb_wrapper">
@@ -473,7 +539,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="wpb_column vc_column_container vc_col-sm-6">
+                                <div class="wpb_column vc_column_container vc_col-sm-6" id="contenido4-4">
                                     <div class="vc_column-inner ">
                                         <div class="wpb_wrapper">
                                             <div class="wpb_text_column wpb_content_element ">
@@ -580,6 +646,27 @@
         </footer>
     </div>
 </div>
+
+<script>
+    function myFunction(x) {
+        if (x.matches) { // If media query matches
+//            $('#contenido2').style.display='none';
+            document.getElementById("contenido2-2").style.display = "none";
+            document.getElementById("contenido2").style.display = "block";
+            document.getElementById("contenido4-4").style.display = "none";
+            document.getElementById("contenido4").style.display = "block";
+        } else {
+            document.getElementById("contenido2-2").style.display = "block";
+            document.getElementById("contenido2").style.display = "none";
+            document.getElementById("contenido4-4").style.display = "block";
+            document.getElementById("contenido4").style.display = "none";
+        }
+    }
+
+    var x = window.matchMedia("(max-width: 770px)")
+    myFunction(x) // Call listener function at run time
+    x.addListener(myFunction) //
+</script>
 
 <script type='text/javascript' src='js/vendor/jQuery/jquery.js'></script>
 <script type='text/javascript' src='js/vendor/jQuery/jquery-migrate.min.js'></script>

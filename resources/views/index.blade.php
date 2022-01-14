@@ -36,7 +36,6 @@
         }
     </style>
 </head>
-
 <body class="homepg home page body_style_wide scheme_default blog_style_excerpt sidebar_hide expand_content remove_margins header_style_header-2 header_title_off no_layout vc_responsive">
     <div class="body_wrap">
         <div class="page_wrap">
@@ -227,21 +226,26 @@
                     <div class="wpb_column vc_column_container vc_col-sm-12">
                         <div class="vc_column-inner ">
                             <div class="wpb_wrapper">
+
+                                <br>
+                                <br>
+                                <br>
+                                <br>
+                                <br>
+                                <br>
                                 <div class="vc_empty_space empty_8 hide_on_mobile hide_on_tablet">
                                     <span class="vc_empty_space_inner"></span>
                                 </div>
                                 <div class="vc_empty_space empty_5 hide_on_mobile">
                                     <span class="vc_empty_space_inner"></span>
                                 </div>
-                                <div id="sc_content_1211812500" class="sc_content sc_content_default sc_float_left sc_align_left bg_gradient sc_content_width_1_2 sc_padding_small" >
+                                <div id="sc_content_1211812500" class="sc_content_default sc_float_left sc_align_left bg_gradient sc_content_width_1_2 " style="padding: 1em; "  >
                                     <div class="sc_content_container">
-                                        <div class="vc_empty_space empty_3">
-                                            <span class="vc_empty_space_inner"></span>
-                                        </div>
-                                        <div class="wpb_text_column wpb_content_element ">
-                                            <div class="wpb_wrapper">
-                                                <h3>Enfrenta problemas complejos de recursos humanos con confianza de la mano de nuestros especialistas</h3>
+                                        <div class="wpb_text_column  wpb_content_element ">
+                                            <div class="wpb_wrapper"  >
+                                                <h4 >Enfrenta problemas complejos de recursos humanos con confianza de la mano de nuestros especialistas</h4>
                                             </div>
+                                            <br>
                                         </div>
                                         <div class="sc_icons sc_icons_default sc_icons_size_small sc_align_left">
                                             <div class="sc_icons_item">
@@ -250,6 +254,7 @@
                                                 </div>
                                             </div>
                                         </div>
+
                                     </div>
                                 </div>
                             </div>
@@ -326,6 +331,7 @@
                             <div class="wpb_wrapper" style="display: flex; align-items: stretch">
                                 <div class="wpb_text_column wpb_content_element " style="display: flex; align-items: stretch">
                                     <div class="wpb_wrapper" style="margin: auto; padding-left: 2em; ">
+                                        <br>
                                         <h5 class="cblue">CORE</h5>
                                         <h1>Soluciones en capital humano</h1>
                                         <p>
@@ -385,6 +391,7 @@
                         </div>
                     </div>
                 </div>
+                <br>
 
             </div>
             <footer class="site_footer_wrap">
